@@ -1,0 +1,11 @@
+#aboutme {
+  border: 1px solid black;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+#aboutme h1 {
+  margin: 5px;
+}

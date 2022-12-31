@@ -1,0 +1,14 @@
+@import "./reset.css";
+
+@import "./header.css";
+@import "./aboutme.css";
+@import "./project.css";
+@import "./skill.css";
+
+body {
+  font-family: "Noto Sans KR", sans-serif;
+}
+
+h1 {
+  font-size: 2rem;
+}
