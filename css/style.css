@@ -4,6 +4,8 @@
 @import "./aboutme.css";
 @import "./project.css";
 @import "./skill.css";
+@import "./contact.css";
+@import "./footer.css";
 
 body {
   font-family: "Noto Sans KR", sans-serif;
